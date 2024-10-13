@@ -3,11 +3,11 @@
 # Medical Chatbot Using CSV & PDF Files
 
 Group 14 
-Balakumara Sivanesan - 2488302
-Christ Annson Micheal Edison - 24885194 
-Fahad Amjad - 25116928 
-Rawan Alabbad - 25104252 
-Ram Puri - 24619900 
+Balakumara Sivanesan - 2488302,
+Christ Annson Micheal Edison - 24885194,
+Fahad Amjad - 25116928,
+Rawan Alabbad - 25104252,
+Ram Puri - 24619900.
 
 
 ## Project Overview
