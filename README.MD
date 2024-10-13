@@ -1,4 +1,4 @@
-# Medical Chatbot
+# Medical Chatbot Using CSV & PDF Files
 
 ## Project Overview
 This project aims to develop a chatbot that can provide accurate medical information and advice based on the "Gale Encyclopedia of Medicine." PDF & Medical Transcriptions CSV
