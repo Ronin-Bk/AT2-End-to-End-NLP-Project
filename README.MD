@@ -1,4 +1,14 @@
+# 36118 Applied Natural Language Processing 
+
 # Medical Chatbot Using CSV & PDF Files
+
+Group 14 
+Balakumara Sivanesan - 2488302
+Christ Annson Micheal Edison - 24885194 
+Fahad Amjad - 25116928 
+Rawan Alabbad - 25104252 
+Ram Puri - 24619900 
+
 
 ## Project Overview
 This project aims to develop a chatbot that can provide accurate medical information and advice based on the "Gale Encyclopedia of Medicine." PDF & Medical Transcriptions CSV
